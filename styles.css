@@ -5,3 +5,24 @@
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    background-color: orange;
+    text-align: center;
+    font-size:xx-large;
+}
+
+.description.subtitle{
+    font-size: x-large;
+}
+
+.instructions{
+    background-color: lightcoral;
+    font-size: larger;
+}
